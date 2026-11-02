@@ -1,8 +1,10 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# Warp: A Tiny Tapeout demo compo entry! (tt08) 
 
-- [Read the documentation for project](docs/info.md)
+- [Read about the project here](docs/info.md)
+
+[![Watch the video](./docs/warp.jpg)](https://youtu.be/ELOYGwZgHnw)
 
 ## What is Tiny Tapeout?
 
@@ -17,7 +19,7 @@ To learn more and get started, visit https://tinytapeout.com.
 3. Edit [docs/info.md](docs/info.md) and add a description of your project.
 4. Adapt the testbench to your design. See [test/README.md](test/README.md) for more information.
 
-The GitHub action will automatically build the ASIC files using [LibreLane](https://www.zerotoasiccourse.com/terminology/librelane/).
+The GitHub action will automatically build the ASIC files using [OpenLane](https://www.zerotoasiccourse.com/terminology/openlane/).
 
 ## Enable GitHub actions to build the results page
 
@@ -39,4 +41,3 @@ The GitHub action will automatically build the ASIC files using [LibreLane](http
   - LinkedIn [#tinytapeout](https://www.linkedin.com/search/results/content/?keywords=%23tinytapeout) [@TinyTapeout](https://www.linkedin.com/company/100708654/)
   - Mastodon [#tinytapeout](https://chaos.social/tags/tinytapeout) [@matthewvenn](https://chaos.social/@matthewvenn)
   - X (formerly Twitter) [#tinytapeout](https://twitter.com/hashtag/tinytapeout) [@tinytapeout](https://twitter.com/tinytapeout)
-  - Bluesky [@tinytapeout.com](https://bsky.app/profile/tinytapeout.com)
